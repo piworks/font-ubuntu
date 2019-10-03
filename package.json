@@ -1,0 +1,23 @@
+{
+  "name": "font-ubuntu",
+  "version": "1.0.0",
+  "description": "Ubuntu Font Family",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "google fonts",
+    "ubuntu"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piworks/font-ubuntu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piworks/font-ubuntu/issues"
+  },
+  "homepage": "https://github.com/piworks/font-ubuntu#readme"
+}
