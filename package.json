@@ -3,13 +3,11 @@
   "version": "1.0.0",
   "description": "Ubuntu Font Family",
   "keywords": [
-    "typeface",
     "font",
     "font family",
     "google fonts",
     "ubuntu"
   ],
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/piworks/font-ubuntu.git"
