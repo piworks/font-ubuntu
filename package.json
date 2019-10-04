@@ -1,5 +1,5 @@
 {
-  "name": "font-ubuntu",
+  "name": "@piworks/font-ubuntu",
   "version": "1.0.0",
   "description": "Ubuntu Font Family",
   "keywords": [
@@ -11,6 +11,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/piworks/font-ubuntu.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   },
   "author": "",
   "license": "ISC",
